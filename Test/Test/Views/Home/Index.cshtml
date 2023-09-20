@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @{
+        var txt = "";
+        if (DateTime.Now.Hour > 12)
+        { txt = "Good Evening"; }
+        else
+        { txt = "Good Morning"; }
+    }
+    <h1 class="display-4">Welcome User!</h1>
+    <h2> @txt, It is @DateTime.Today</h2>
+</div>
+

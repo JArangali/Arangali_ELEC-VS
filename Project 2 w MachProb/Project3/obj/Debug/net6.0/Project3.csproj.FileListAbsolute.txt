@@ -1,0 +1,92 @@
+C:/Users/lourd/source/repos/Project3/Project3/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/lourd/source/repos/Project3/Project3/bin/Debug/net6.0/appsettings.json
+C:/Users/lourd/source/repos/Project3/Project3/bin/Debug/net6.0/Project3.staticwebassets.runtime.json
+C:/Users/lourd/source/repos/Project3/Project3/bin/Debug/net6.0/Project3.exe
+C:/Users/lourd/source/repos/Project3/Project3/bin/Debug/net6.0/Project3.deps.json
+C:/Users/lourd/source/repos/Project3/Project3/bin/Debug/net6.0/Project3.runtimeconfig.json
+C:/Users/lourd/source/repos/Project3/Project3/bin/Debug/net6.0/Project3.dll
+C:/Users/lourd/source/repos/Project3/Project3/bin/Debug/net6.0/Project3.pdb
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/Project3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/Project3.AssemblyInfoInputs.cache
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/Project3.AssemblyInfo.cs
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/Project3.csproj.CoreCompileInputs.cache
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/Project3.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/Project3.RazorAssemblyInfo.cache
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/Project3.RazorAssemblyInfo.cs
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/staticwebassets/msbuild.Project3.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/staticwebassets/msbuild.build.Project3.props
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Project3.props
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Project3.props
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/scopedcss/bundle/Project3.styles.css
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/scopedcss/projectbundle/Project3.bundle.scp.css
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/Project3.dll
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/refint/Project3.dll
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/Project3.pdb
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/Project3.genruntimeconfig.cache
+C:/Users/lourd/source/repos/Project3/Project3/obj/Debug/net6.0/ref/Project3.dll
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/bin/Debug/net6.0/appsettings.Development.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/bin/Debug/net6.0/appsettings.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/bin/Debug/net6.0/Project3.staticwebassets.runtime.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/bin/Debug/net6.0/Project3
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/bin/Debug/net6.0/Project3.deps.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/bin/Debug/net6.0/Project3.runtimeconfig.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/bin/Debug/net6.0/Project3.dll
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/bin/Debug/net6.0/Project3.pdb
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/Project3.csproj.AssemblyReference.cache
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/Project3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/Project3.AssemblyInfoInputs.cache
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/Project3.AssemblyInfo.cs
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/Project3.csproj.CoreCompileInputs.cache
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/Project3.MvcApplicationPartsAssemblyInfo.cache
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/Project3.RazorAssemblyInfo.cache
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/Project3.RazorAssemblyInfo.cs
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/staticwebassets/msbuild.Project3.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/staticwebassets/msbuild.build.Project3.props
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Project3.props
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Project3.props
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/scopedcss/bundle/Project3.styles.css
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/scopedcss/projectbundle/Project3.bundle.scp.css
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/Project3.dll
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/refint/Project3.dll
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/Project3.pdb
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/Project3.genruntimeconfig.cache
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/Project3/obj/Debug/net6.0/ref/Project3.dll
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/bin/Debug/net6.0/appsettings.Development.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/bin/Debug/net6.0/appsettings.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/bin/Debug/net6.0/Project3.staticwebassets.runtime.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/bin/Debug/net6.0/Project3
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/bin/Debug/net6.0/Project3.deps.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/bin/Debug/net6.0/Project3.runtimeconfig.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/bin/Debug/net6.0/Project3.dll
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/bin/Debug/net6.0/Project3.pdb
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/Project3.csproj.AssemblyReference.cache
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/Project3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/Project3.AssemblyInfoInputs.cache
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/Project3.AssemblyInfo.cs
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/Project3.csproj.CoreCompileInputs.cache
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/Project3.MvcApplicationPartsAssemblyInfo.cache
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/Project3.RazorAssemblyInfo.cache
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/Project3.RazorAssemblyInfo.cs
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/staticwebassets/msbuild.Project3.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/staticwebassets/msbuild.build.Project3.props
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Project3.props
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Project3.props
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/scopedcss/bundle/Project3.styles.css
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/scopedcss/projectbundle/Project3.bundle.scp.css
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/Project3.dll
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/refint/Project3.dll
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/Project3.pdb
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/Project3.genruntimeconfig.cache
+/Users/jasper/Documents/School/3rd year/1st Sem/ELEC-VS/test 2/Project3/obj/Debug/net6.0/ref/Project3.dll

@@ -1,0 +1,26 @@
+﻿@{
+
+    var email = "jasperlindell.arangali.cics@ust.edu.ph";
+
+    var search = email.Contains("zoe");
+    var x = email.IndexOf("@");
+    var y = email.Length;
+    var a = email.ToUpper();
+    var b = email.ToLower();
+    var k = email.Substring(x + 1);
+    string[] l = email.Split(new char[] {'@'});
+
+}
+
+
+<h2> Employee Page<br /> </h2>
+
+<h3>@search</h3>
+<hr />
+<h3>@x</h3>
+<h3>@y</h3>
+<h3>@a</h3>
+<h3>@b</h3>
+<h3>@k</h3>
+<h3>@l[0]</h3>
+<h3>@l[1]</h3>

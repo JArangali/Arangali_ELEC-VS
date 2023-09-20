@@ -1,0 +1,147 @@
+﻿@{
+
+    var fname = "Jasper Lindell";
+    var lname = "Arangali";
+    DateTime Birthday = DateTime.Parse("05/22/2003");
+    var email = "jasperlindell.arangali.cics@ust.edu.ph";
+    var IsTenured = true;
+
+    int overall = 0;
+    int prelims = 92;
+    int finals = 93;
+    float sem = 0f;
+
+    string[] l = email.Split(new char[] { '@' });
+    var age = DateTime.Now.Subtract(Birthday).Days / 365;
+}
+
+
+<h3>Output 1</h3>
+<strong><p>I'am @fname @lname and I am @age years old.</p></strong>
+<br />
+<br />
+
+<h3>Output 2</h3>
+<strong>
+    <p>
+        Email: @email<br />
+        Domain: @l[1] <br />
+        Username: @l[0]
+    </p>
+</strong>
+
+<h3>Output 3</h3>
+<strong>
+    <p>
+        Name: @fname @lname<br />
+        Email: @email<br />
+    </p>
+</strong>
+        @{
+    if (IsTenured == true)
+    {
+            <strong>
+                <p>Status: "Permanent"</p>
+            </strong>;
+            }
+            else
+            {
+                <strong>
+                <p> Status: "Permanent" </p>
+            </strong>;
+            }
+                }
+<strong>
+    Daily Salary:
+    @{
+        int perDay = 0;
+        perDay = 80 * 8;
+    } @perDay
+    <br />
+    Monthly Salary:
+    @{
+        int monthly = 0;
+        monthly = perDay * 30;
+
+        if (@IsTenured)
+        {
+            monthly = monthly + 500;
+        }
+    } @monthly
+</strong>
+
+<h3>Output 4</h3>
+
+<table class="table table-dark">
+    <tr>
+        <td>Name:</td>
+        <td>@fname @lname </td>
+    </tr>
+    <tr>
+        <td>Prelims:</td>
+        <td>@prelims</td>
+    </tr>
+    <tr>
+        <td>Finals:</td>
+        <td>@finals</td>
+    </tr>
+    <tr>
+        <td>Semestral Grade:</td>
+        <td>
+            @{
+
+            overall = prelims + finals; 
+            sem = overall/2;
+                }@sem
+            </td>
+    </tr>
+
+    <tr>
+        <td>Transmutated Grade</td>
+        <td>
+            @{
+                float transmuted = 0f;
+                if (sem >= 96 && sem <= 100)
+                {
+                    transmuted = 1f;
+                }
+                else if (sem >= 94 && sem <= 95)
+                {
+                    transmuted = 1.25f;
+                }
+                else if (sem >= 92 && sem <= 93)
+                {
+                    transmuted = 1.50f;
+                }
+                else if (sem >= 89 && sem <= 91)
+                {
+                    transmuted = 1.75f;
+                }
+                else if (sem >= 87 && sem <= 88)
+                {
+                    transmuted = 2.00f;
+                }
+                else if (sem >= 84 && sem <= 86)
+                {
+                    transmuted = 2.25f;
+                }
+                else if (sem >= 82 && sem <= 83)
+                {
+                    transmuted = 2.50f;
+                }
+                else if (sem >= 79 && sem <= 81)
+                {
+                    transmuted = 2.75f;
+                }
+                else if (sem >= 75 && sem <= 78)
+                {
+                    transmuted = 3.00f;
+                }
+                else
+                {
+                    transmuted = 5.00f;
+                }
+                }@transmuted
+            </td>
+    </tr>
+</table>
