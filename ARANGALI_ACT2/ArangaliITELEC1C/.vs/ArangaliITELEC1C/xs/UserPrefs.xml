@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4B1CE145-EF0E-4635-9110-64C925969BC4}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArangaliITELEC1C/Models/Student.cs">
+    <Files>
+      <File FileName="ArangaliITELEC1C/Models/Student.cs" Line="17" Column="2" />
+      <File FileName="ArangaliITELEC1C/Controllers/StudentController.cs" />
+      <File FileName="ArangaliITELEC1C/Views/Student/UpdateStudent.cshtml" />
+      <File FileName="ArangaliITELEC1C/Views/Student/AddStudent.cshtml" />
+      <File FileName="ArangaliITELEC1C/Views/Student/Index.cshtml" />
+      <File FileName="ArangaliITELEC1C/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArangaliITELEC1C" expanded="True">
+            <Node name="ArangaliITELEC1C">
+              <Node name="Models" expanded="True">
+                <Node name="Student.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ArangaliITELEC1C PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
