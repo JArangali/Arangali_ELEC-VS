@@ -1,21 +1,22 @@
 ﻿<Properties StartupConfiguration="{F163066C-8F65-4C37-B040-266905D36347}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Project3 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Project3/Views/User/Index.cshtml">
     <Files>
       <File FileName="Project3/Views/User/MachineProblem.cshtml" />
       <File FileName="Project3/Views/User/Index.cshtml" Line="1" Column="1" />
       <File FileName="Project3/Views/User/Employee.cshtml" Line="1" Column="3" />
-      <File FileName="Project3/Views/User/MachineProblem (copy).cshtml" Line="2" Column="12" NotebookId="1" />
+      <File FileName="Project3/Views/User/MachineProblem (copy).cshtml" NotebookId="1" />
       <File FileName="Project3/Views/User/MachineProblem (another copy).cshtml" Line="1" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Project3" expanded="True">
-            <Node name="Project3" expanded="True">
+          <Node name="Project3">
+            <Node name="Project3">
               <Node name="Views" expanded="True">
                 <Node name="User" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
+                  <Node name="MachineProblem (copy).cshtml" selected="True" />
                 </Node>
               </Node>
               <Node name="wwwroot" expanded="True" />
@@ -25,10 +26,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Project3 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
 </Properties>
